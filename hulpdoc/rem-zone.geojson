@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "rem-zone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "BLOCKNAME": "Rem", "LAYER": "Intra-Speed indicator", "NR": "1", "naam": "Opera - open helling", "zone": 922, "kleur": "S-roze" }, "geometry": { "type": "Point", "coordinates": [ 491263.290095895237755, 6659420.09846380725503, 0.0 ] } },
+{ "type": "Feature", "properties": { "BLOCKNAME": "Rem", "LAYER": "Intra-Speed indicator", "NR": "2", "naam": "Plantin - open helling", "zone": 905, "kleur": "S-lichtblauw" }, "geometry": { "type": "Point", "coordinates": [ 492120.771123927959707, 6658113.149319080635905, -5.147572340068902 ] } },
+{ "type": "Feature", "properties": { "BLOCKNAME": "Rem", "LAYER": "Intra-Speed indicator", "NR": "3", "naam": "Plantin - open helling Mercator", "zone": 950, "kleur": "S-groen" }, "geometry": { "type": "Point", "coordinates": [ 492413.636116298497654, 6658298.723831829614937, -5.147572340068902 ] } },
+{ "type": "Feature", "properties": { "BLOCKNAME": "Rem", "LAYER": "Intra-Speed indicator", "NR": "4", "naam": "Sport - open helling", "zone": 909, "kleur": "S-lichtblauw" }, "geometry": { "type": "Point", "coordinates": [ 494583.931670679769013, 6662583.486665671691298, 0.0 ] } },
+{ "type": "Feature", "properties": { "BLOCKNAME": "Rem", "LAYER": "Intra-Speed indicator", "NR": "5", "naam": "Morckhoven - open helling", "zone": 927, "kleur": "S-lichtblauw" }, "geometry": { "type": "Point", "coordinates": [ 495860.810435975319706, 6658535.982362355105579, 0.0 ] } },
+{ "type": "Feature", "properties": { "BLOCKNAME": "Rem", "LAYER": "Intra-Speed indicator", "NR": "6", "naam": "Foorplein - open helling", "zone": 928, "kleur": "S-lichtblauw" }, "geometry": { "type": "Point", "coordinates": [ 495143.559329902054742, 6659934.806258308701217, 0.0 ] } },
+{ "type": "Feature", "properties": { "BLOCKNAME": "Rem", "LAYER": "Intra-Speed indicator", "NR": "7", "naam": "Blancefloerlaan", "zone": 190, "kleur": "S-rood" }, "geometry": { "type": "Point", "coordinates": [ 487564.178230089775752, 6660364.294906130060554, 0.0 ] } },
+{ "type": "Feature", "properties": { "BLOCKNAME": "Rem", "LAYER": "Intra-Speed indicator", "NR": "8", "naam": "Ten Eekhovelei", "zone": 54, "kleur": "S-lichtblauw" }, "geometry": { "type": "Point", "coordinates": [ 495052.556508847104851, 6661621.034232097677886, 0.0 ] } }
+]
+}
